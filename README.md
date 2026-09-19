@@ -16,7 +16,8 @@ npm run dev
 ```
 
 Then open [http://localhost:5173](http://localhost:5173).
-Live website : thenewsify.vercel.app
+
+Live website : http://thenewsify.vercel.app
 
 Create a production build with:
 

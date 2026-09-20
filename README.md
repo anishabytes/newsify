@@ -6,17 +6,6 @@ Newsify is a responsive national news portal built with React, TypeScript, and V
 
 > A fast, source-conscious front end for exploring what is happening across India.
 
----
-
-## Start here
-
-```powershell
-npm install
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173).
-
 Live website : http://thenewsify.vercel.app
 
 Create a production build with:
